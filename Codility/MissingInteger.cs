@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace DemoTask
+namespace MissingInteger
 {
     // you can also use other imports, for example:
     // using System.Collections.Generic;
